@@ -1,0 +1,16 @@
+C:\Users\user\source\repos\KutuphaneProg\KutuphaneProg.Data\bin\Debug\KutuphaneProg.Data.dll.config
+C:\Users\user\source\repos\KutuphaneProg\KutuphaneProg.Data\bin\Debug\KutuphaneProg.Data.dll
+C:\Users\user\source\repos\KutuphaneProg\KutuphaneProg.Data\bin\Debug\KutuphaneProg.Data.pdb
+C:\Users\user\source\repos\KutuphaneProg\KutuphaneProg.Data\bin\Debug\EntityFramework.dll
+C:\Users\user\source\repos\KutuphaneProg\KutuphaneProg.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\user\source\repos\KutuphaneProg\KutuphaneProg.Data\bin\Debug\KutuphaneProg.Data.Model.dll
+C:\Users\user\source\repos\KutuphaneProg\KutuphaneProg.Data\bin\Debug\KutuphaneProg.Data.Model.pdb
+C:\Users\user\source\repos\KutuphaneProg\KutuphaneProg.Data\bin\Debug\EntityFramework.xml
+C:\Users\user\source\repos\KutuphaneProg\KutuphaneProg.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\user\source\repos\KutuphaneProg\KutuphaneProg.Data\obj\Debug\KutuphaneProg.Data.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\KutuphaneProg\KutuphaneProg.Data\obj\Debug\KutuphaneProg.Data.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\KutuphaneProg\KutuphaneProg.Data\obj\Debug\KutuphaneProg.Data.csproj.CopyComplete
+C:\Users\user\source\repos\KutuphaneProg\KutuphaneProg.Data\obj\Debug\KutuphaneProg.Data.dll
+C:\Users\user\source\repos\KutuphaneProg\KutuphaneProg.Data\obj\Debug\KutuphaneProg.Data.pdb
+C:\Users\user\source\repos\KutuphaneProg\KutuphaneProg.Data\obj\Debug\KutuphaneProg.Data.Migrations.InitialCreate.resources
+C:\Users\user\source\repos\KutuphaneProg\KutuphaneProg.Data\obj\Debug\KutuphaneProg.Data.csproj.GenerateResource.cache

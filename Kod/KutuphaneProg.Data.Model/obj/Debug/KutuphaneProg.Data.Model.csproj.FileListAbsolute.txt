@@ -1,0 +1,6 @@
+C:\Users\user\source\repos\KutuphaneProg\KutuphaneProg.Data.Model\bin\Debug\KutuphaneProg.Data.Model.dll
+C:\Users\user\source\repos\KutuphaneProg\KutuphaneProg.Data.Model\bin\Debug\KutuphaneProg.Data.Model.pdb
+C:\Users\user\source\repos\KutuphaneProg\KutuphaneProg.Data.Model\obj\Debug\KutuphaneProg.Data.Model.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\KutuphaneProg\KutuphaneProg.Data.Model\obj\Debug\KutuphaneProg.Data.Model.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\KutuphaneProg\KutuphaneProg.Data.Model\obj\Debug\KutuphaneProg.Data.Model.dll
+C:\Users\user\source\repos\KutuphaneProg\KutuphaneProg.Data.Model\obj\Debug\KutuphaneProg.Data.Model.pdb
